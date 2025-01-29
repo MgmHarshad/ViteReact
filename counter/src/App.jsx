@@ -4,7 +4,6 @@ function App() {
   let [counter,setCount] =  useState(15)
 
   // let counter = 15;
-
   
     const Add = () =>{
       if(counter<20){
